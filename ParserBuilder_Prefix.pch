@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PythonAsYouType' target in the 'PythonAsYouType' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
